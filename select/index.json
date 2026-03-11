@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "try this shoot",
+  "base_artist": "globe",
+  "createdAt": "2026-03-11T04:20:25.640731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "try this shoot(Original Versio",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/01_try_this_shoot(Original_Versio_globe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "try this shoot (Original Version)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/02_try_this_shoot_(Original_Version)_globe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "try this shoot (original mix)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/03_try_this_shoot_(original_mix)_globe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "try this shoot (TV mix)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/04_try_this_shoot_(TV_mix)_globe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "try this shoot(Original Version)",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/05_try_this_shoot(Original_Version)_globe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "try this shoot",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/pl_01_try_this_shoot_globe.txt"
+    }
+  ]
+}
